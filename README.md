@@ -1,4 +1,4 @@
-# Hola, soy Lucas 👋
+# Hola, soy Lucas 
 
 🎓 Estudiante de último año de Escuela Técnica y futuro estudiante de Ciencias de la Computación.
 
