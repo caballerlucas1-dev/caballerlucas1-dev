@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hola, soy Lucas 
 
-<!--
-**caballerlucas1-dev/caballerlucas1-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante y desarrollador en formación.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
+
+## Tecnologías
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Proyectos
+
+- Recetas Budines
+- Sistema de Biblioteca
+- API REST
+- Sistema para Científicos
+
+## Objetivos 2026
+
+- Aprender Spring Boot
+- Mejorar mis conocimientos de SQL
+- Construir aplicaciones Full Stack
+- Ingresar a Ciencias de la Computación
