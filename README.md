@@ -1,33 +1,65 @@
 # Hola, soy Lucas 
 
-Soy estudiante y desarrollador en formación.
+🎓 Estudiante de último año de Escuela Técnica y futuro estudiante de Ciencias de la Computación.
 
-Actualmente estoy aprendiendo:
+Me apasiona el desarrollo de software y disfruto construir aplicaciones que me permitan aprender nuevas tecnologías y mejorar mis habilidades. Mi enfoque principal es el desarrollo backend con Java, complementándolo con tecnologías frontend para crear aplicaciones completas.
 
+---
+
+##  Tecnologías
+
+### Lenguajes
+- Java
+- JavaScript
+- SQL
 - HTML
 - CSS
-- JavaScript
-- Java
-- SQL
 
-## Tecnologías
+### Frameworks y Librerías
+- Spring Boot
+- React
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Bases de Datos
+- PostgreSQL
 
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Herramientas
+- Git
+- GitHub
+- Docker
+- IntelliJ IDEA
+- Visual Studio Code
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-## Proyectos
+##  Proyectos Destacados
 
-- Recetas Budines
-- Sistema de Biblioteca
-- API REST
-- Sistema para Científicos
+-  **Recetas Budines**  
+  Sitio web responsive desarrollado con HTML, CSS y JavaScript.
 
-## Objetivos 2026
+- **Sistema de Biblioteca**  
+  Aplicación desarrollada en Java utilizando Programación Orientada a Objetos.
 
-- Aprender Spring Boot
-- Mejorar mis conocimientos de SQL
-- Construir aplicaciones Full Stack
-- Ingresar a Ciencias de la Computación
+- **Task Manager API**  
+  API REST desarrollada con Spring Boot y PostgreSQL.
+
+- **Sistema para Científicos**  
+  Aplicación Full Stack desarrollada con React, Spring Boot y PostgreSQL.
+
+---
+
+## Actualmente aprendiendo
+
+- Arquitectura de software
+- Docker
+- Testing
+- Buenas prácticas de desarrollo
+- Diseño de APIs REST
+
+---
+
+## Objetivos
+
+- Construir software de calidad.
+- Aprender continuamente nuevas tecnologías.
+- Contribuir a proyectos cada vez más desafiantes.
+- Desarrollarme profesionalmente como Software Developer.
