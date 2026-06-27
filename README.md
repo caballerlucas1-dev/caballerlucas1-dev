@@ -20,13 +20,11 @@ Me apasiona el desarrollo de software y disfruto construir proyectos que me perm
 - React
 
 ### Bases de Datos
-- PostgreSQL
+- MySQL
 
 ### Herramientas
 - Git
 - GitHub
-- Docker
-- IntelliJ IDEA
 - Visual Studio Code
 
 ---
