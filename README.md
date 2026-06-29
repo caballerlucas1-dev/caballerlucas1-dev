@@ -4,34 +4,22 @@
 
 Me apasiona el desarrollo de software y disfruto construir proyectos que me permitan aprender nuevas tecnologías y mejorar mis habilidades. Mi principal interés es el desarrollo backend con Java, complementándolo con tecnologías frontend para crear aplicaciones completas.
 
----
-
-# Tecnologías
-
 ### Lenguajes
-- Java
-- JavaScript
-- SQL
-- HTML
-- CSS
+- Java, JavaScript, SQL, HTML CSS
 
 ### Frameworks
-- Spring Boot
-- React
+- Spring Boot y React
 
 ### Bases de Datos
 - MySQL
 
 ### Herramientas
-- Git
-- GitHub
-- Visual Studio Code
+GitHub y Visual Studio Code
 
----
 
 # Proyectos Destacados
 
-## 🍰 Recetas Budines
+## Recetas Budines
 Sitio web responsive desarrollado únicamente con **HTML y CSS**, enfocado en buenas prácticas de maquetación, organización del código y diseño responsive.
 
 ---
@@ -66,9 +54,9 @@ Aplicación Full Stack desarrollada con **React**, **Spring Boot** y **PostgreSQ
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
 - Seguir construyendo proyectos que representen desafíos reales.
-- Profundizar mis conocimientos en desarrollo backend.
+- Profundizar mis conocimientos en desarrollo backend y frontend.
 - Aprender nuevas tecnologías y buenas prácticas de ingeniería de software.
 - Desarrollarme profesionalmente como Software Developer.
