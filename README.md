@@ -2,18 +2,6 @@
 
 Me apasiona el desarrollo de software y disfruto construir proyectos que me permitan aprender nuevas tecnologías y mejorar mis habilidades. Mi principal interés es el desarrollo backend con Java, complementándolo con tecnologías frontend para crear aplicaciones completas.
 
-### Lenguajes
-- Java, JavaScript, SQL, HTML CSS
-
-### Frameworks
-- Spring Boot y React
-
-### Bases de Datos
-- MySQL
-
-### Herramientas
-GitHub y Visual Studio Code
-
 # Proyectos
 
 ## Recetas Budines
