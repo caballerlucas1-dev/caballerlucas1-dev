@@ -1,4 +1,4 @@
- Hola, soy Lucas, estudiante de último año de Escuela Técnica y futuro estudiante de Ciencias de la Computación.
+### Hola, soy Lucas, estudiante de último año de Escuela Técnica y futuro estudiante de Ciencias de la Computación.
 
 Me apasiona el desarrollo de software y disfruto construir proyectos que me permitan aprender nuevas tecnologías y mejorar mis habilidades. Mi principal interés es el desarrollo backend con Java, complementándolo con tecnologías frontend para crear aplicaciones completas.
 
