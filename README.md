@@ -1,7 +1,3 @@
-### Hola, soy Lucas, estudiante de último año de Escuela Técnica y futuro estudiante de Ciencias de la Computación.
-
-Me apasiona el desarrollo de software y disfruto construir proyectos que me permitan aprender nuevas tecnologías y mejorar mis habilidades. Mi principal interés es el desarrollo backend con Java, complementándolo con tecnologías frontend para crear aplicaciones completas.
-
 # Proyectos
 
 ## Recetas Budines
@@ -18,17 +14,3 @@ Aplicación desarrollada con **React** que consume una API REST, utilizando comp
 
 ## Sistema para Científicos
 Aplicación Full Stack desarrollada con **React**, **Spring Boot** y **PostgreSQL**, integrando frontend, backend y base de datos en un único proyecto.
-
-# Actualmente aprendiendo
-- Arquitectura de software
-- Docker
-- Testing
-- Buenas prácticas de desarrollo
-- Diseño de APIs REST
-
-# Objetivos
-
-- Seguir construyendo proyectos que representen desafíos reales.
-- Profundizar mis conocimientos en desarrollo backend y frontend.
-- Aprender nuevas tecnologías y buenas prácticas de ingeniería de software.
-- Desarrollarme profesionalmente como Software Developer.
