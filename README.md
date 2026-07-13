@@ -1,9 +1,9 @@
 # Proyectos
 
-**Recetas Budines:**
+**Recetas_Budines:**
 Sitio web responsive desarrollado únicamente con **HTML y CSS**, enfocado en buenas prácticas de maquetación, organización del código y diseño responsive.
 
-**Sistema de Biblioteca:**
+~~**Sistema_de_Biblioteca:**
 Aplicación desarrollada en **Java** aplicando Programación Orientada a Objetos, colecciones, manejo de archivos y buenas prácticas de organización del código.
 
 **Task Manager API**
