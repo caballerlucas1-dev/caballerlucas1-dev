@@ -4,7 +4,7 @@
 Sitio web responsive desarrollado únicamente con **HTML y CSS**, enfocado en buenas prácticas de maquetación, organización del código y diseño responsive.
 
 ~~**Sistema_de_Biblioteca:**
-Aplicación desarrollada en **Java** aplicando Programación Orientada a Objetos, colecciones, manejo de archivos y buenas prácticas de organización del código.~~
+Aplicación desarrollada en *Java* aplicando Programación Orientada a Objetos, colecciones, manejo de archivos y buenas prácticas de organización del código.~~
 
 ~~**Task Manager API**
 API REST desarrollada con **Spring Boot** y **PostgreSQL**, implementando operaciones CRUD, persistencia de datos y arquitectura por capas.~~
